@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrLunaticxd
 - 💻 Learning web development
-- 🎮 Interseted in game development in the future
+- 🎮 Interested in game development in the future
 - ✨ Working hard for the future
 <!---
 MrLunaticxd/MrLunaticxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
